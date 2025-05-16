@@ -4,7 +4,7 @@
 
 <p align="center"># 晚安。</p>
 
-<p align="center"># This is a diary, or perhaps a suicide note from someone named Gu Mouxuan. </p>
+<p align="center"># This is a diary, or perhaps a suicide note. </p>
 
 <p align="center"># After reading this, you can go and read the Untitled-1.ipynb or Untitled-0.md</p>
 
